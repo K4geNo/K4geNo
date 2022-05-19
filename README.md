@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k4geno_/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5554981207562)
 
-![Michel GitHub stats](https://github-readme-stats-k4geno.vercel.app/api?username=K4geNo&show_icons=true&theme=dark)
+![Michel GitHub stats](https://github-readme-stats-k4geno.vercel.app/api?username=K4geNo&show_icons=true&theme=dark&locale=pt)
 [![Top Langs](https://github-readme-stats-k4geno.vercel.app/api/top-langs/?username=K4geNo&theme=dark&layout=compact)](https://github.com/K4geNo/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia
