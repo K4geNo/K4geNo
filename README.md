@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats-k4geno.vercel.app/api/top-langs/?username=K4geNo&theme=dark)](https://github.com/K4geNo/github-readme-stats)
 
-## Tecnologias que uso no meu dia a dia
+## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" align="center" />
