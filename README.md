@@ -19,5 +19,3 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ReactJS" align="center" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ReactJS" align="center" />
 </div><br>
-
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação e buscando sempre a constante evolução!
