@@ -19,3 +19,7 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ReactJS" align="center" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ReactJS" align="center" />
 </div><br>
+
+## DevCard
+
+<a href="https://app.daily.dev/KageNo"><img src="https://api.daily.dev/devcards/44218124760f46a19d6dc0ed07421c40.png?r=h9v" width="400" alt="Michel Araujo's Dev Card"/></a>
