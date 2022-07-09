@@ -22,4 +22,4 @@
 
 ## DevCard
 
-<a href="https://app.daily.dev/KageNo"><img src="https://api.daily.dev/devcards/44218124760f46a19d6dc0ed07421c40.png?r=h9v" width="400" alt="Michel Araujo's Dev Card"/></a>
+<a href="https://app.daily.dev/KageNo"><img src="https://api.daily.dev/devcards/44218124760f46a19d6dc0ed07421c40.png?r=4d4" width="400" alt="Michel Araujo's Dev Card"/></a>
