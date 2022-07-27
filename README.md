@@ -1,7 +1,6 @@
 ## Hello there, i'm Michel! (⌐■_■)
 
 -   💼 Atualmente Trabalhando na <a href='https://bluweb.cc/' target="_blank">Bluweb Soluções Digitais</a>
--   📩 Entre em contato no e-mail: micaraujo71@gmail.com
 
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-araujo-2538271b9/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k4geno_/)
