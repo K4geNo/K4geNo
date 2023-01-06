@@ -14,9 +14,6 @@
 [![Top Langs](https://github-readme-stats-k4geno.vercel.app/api/top-langs/?username=K4geNo&theme=dark&hide&layout=compact)](https://github.com/K4geNo/github-readme-stats)
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/MichelAr4ujo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=K4geNo&icon=0&color=6)](https://visitcount.itsvg.in)
 
