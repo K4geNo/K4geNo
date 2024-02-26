@@ -1,5 +1,5 @@
 # 💫 Hello there, i'm Michel!
-🔭 I’m currently looking for a job<br>
+🔭 I am currently employed at Brainny Smart Solutions<br>
 
 📗 I’m currently learning Node.js<br>
 
