@@ -1,5 +1,5 @@
 # 💫 Hello there, i'm Michel!
-🔭 I am currently employed at Brainny Smart Solutions<br>
+🔭 I am currently employed at Vozis<br>
 
 📗 I’m currently learning Node.js<br>
 
